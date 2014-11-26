@@ -1,0 +1,17 @@
+{
+    "teamName": "NUS Technology",
+    "members": [{
+        "name": "muhammad younas",
+        "twitter": "younas_bangash",
+        "koding": "younas_bangash",
+        "location": "Hangu,KPK",
+        "lead": true
+    },
+    {
+        "name": "Muhammad Zeeshan",
+        "twitter": "thelazylog",
+        "koding": "nhannm",
+        "location": "Ho Chi Minh, VN"
+    }
+    ]
+}
