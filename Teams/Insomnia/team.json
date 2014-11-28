@@ -1,0 +1,26 @@
+{
+  "teamName": "Insomnia",
+    "members": [
+      {
+        "name": "",
+        "nickname": "AJ Tan",
+        "twitter": "",
+        "koding": "pytan",
+        "location": "",
+      },
+      {
+        "name": "Roman Redkovich",
+        "twitter": "rredkovich",
+        "koding": "rredkovich",
+        "location": "Moscow, RU"
+      },
+      {
+        "name": "",
+        "koding": "atioxx"
+      },
+      {
+        "name": "",
+        "koding": "ahmadassaf "
+      }
+    ]
+}
