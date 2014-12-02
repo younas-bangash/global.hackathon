@@ -14,7 +14,7 @@ We are composed of four members, scattered across the world, who just recently m
 
 <b>Roman Redkovich</b>
 
-I'm nerd, non-stopable learner, who has took oppurtunity of online education rise and dived into courses from lead world universities to push knowlege further. Work as back-end developer, Linux system administrator at current time, have some pet projects on automotive statistics also loves electronic and microcontroller stuff.
+I'm nerd, non-stopable learner, who has took oppurtunity of online education rise and dived into courses from lead world universities to push knowlege further. Work as back-end developer, Linux system administrator at current time, have some pet projects on automotive statistics also love electronic and microcontroller stuff.
 
 <b>Arvin Joseff Tan</b>
 
@@ -22,7 +22,7 @@ As a programmer, I've just been serious within the last year. I've taken courses
 
 <b>Petra Stručić</b>
 
-As beginner programer I has hope to take new experience at Koding hackathon.
+I'm a beginner programer and has hope to take new experience at Koding hackathon.
 
 <b>Fakhrizal Leksa</b>
 
