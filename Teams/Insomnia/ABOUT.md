@@ -14,7 +14,7 @@ We are composed of three members, scattered across the world, who just recently 
 
 <b>Roman Redkovich</b>
 
-<u>Arvin Joseff Tan</u>
+<b>Arvin Joseff Tan</b>
 
 As a programmer, I've just been serious within the last year. I've taken courses on basic computer science and have had experience coding GUI game apps. At the moment, I only know Python and C++ but plan to expand this skillset while learning new experiences. I've also been wanting to work with everyone from all around the world. This Hackathon is the start of all of these! 
 
