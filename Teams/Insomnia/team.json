@@ -15,8 +15,14 @@
       },
       {
         "name": "Petra Stručić",
-        "koding": "petrar2d2"
+        "koding": "petrar2d2",
         "location": "Križevci, CRO"
+      },
+      {
+        "name": "Fakhrizal Leksa",
+        "twitter": "leksa",
+        "koding": "leksa",
+        "location": "Bandung, ID"
       }
     ]
 }
