@@ -20,6 +20,9 @@ As a programmer, I've just been serious within the last year. I've taken courses
 
 <b>Petra Stručić</b>
 
+<b>Fakhrizal Leksa</b>
+
+As a Front End guy, mostly i'm working as a freelancer. In the last 4 years do tech stuff and brainstorming in some local startup. I dropped out of college 7 years ago -taking majoring in Mining Engineering, pursuing my interest in journalism, new media and codes. But then i took it this interest seriously, especially in to programming and new media. I do some design, user experience to the codes for news website and apps. And this time love to explore data mining and open data.
 
 About your skills and what you are going to do?
 =======
