@@ -1,8 +1,9 @@
 This is our page
 ================
 
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
+We are three coders from three different parts of the world. 
+We might be small as a team, but our will is great and lack of sleep can't bother us.
+Our mission is to explore polluted new worlds, to seek out fresh air and blue sky, to boldly go where no excess CO2 has gone before.
 
 
 About your team
