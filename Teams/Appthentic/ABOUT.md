@@ -7,7 +7,7 @@ About your team
 
 | carlweis | 
 |--- |--- |--- |---
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+| ![carlweis](https://lh4.googleusercontent.com/-Qije4jWjb1Y/AAAAAAAAAAI/AAAAAAAAAoQ/d8k3LZi8Xx4/photo.jpg) |
 
 I've been a developer since learning C at the age of 12. Completly self taught and proficient in full-stack
 web development. I've been working as a professional web &amp; software developer for the last 4 years, and now I'm
