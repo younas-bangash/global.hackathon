@@ -1,20 +1,14 @@
-This is our page
-================
+This is our page.
 
-Or I should say, this is my page as i am running this alone.
+Namaste! This is team "DuoKoders" 
 
+About your team
+Ruraj Joshi -https://github.com/ruraj/
+Sraddhanjali Acharya -https://github.com/tilaprimera/	
 
-About me
-===========================
-
-| felx |
-|--- |
-| ![felx](https://avatars1.githubusercontent.com/u/372050?v=3&s=460) |
-
-I join to test koding.
+We are two recently graduated engineers and working. 
 
 About your skills and what you are going to do?
-=======
+Some of our skills are Java, Play framework, Django, Python, Scala etc. Most of all, we are here to have fun.
 
-wizard & reifier
 

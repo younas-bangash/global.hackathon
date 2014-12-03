@@ -1,11 +1,18 @@
 {
-  "teamName": "ayb",
+  "teamName": "DuoKoders",
   "members": [
     {
-      "name": "François-Xavier Kuntz",
-      "twitter": "@fxkuntz",
-      "koding": "felx",
-      "location": "Paris, FR"
+      "name": "Sraddhanjali Acharya",
+      "twitter": "tilaprimera",
+      "koding": "tilaprimera",	
+      "location": "Lalitpur, NP"
+    },
+    {
+      "name": "Ruraj Joshi",
+      "twitter": "ruraj",
+      "koding": "ruraj",
+      "location": "Lalitpur, NP",
+      "lead" : true
     }
   ]
 }
