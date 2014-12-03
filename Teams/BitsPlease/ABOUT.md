@@ -6,9 +6,9 @@ Hi all, we are engineers of UofT, excited to participate in the first ever globa
 About your team
 ===========================
 
-| paulliwali | lyamelia | phantastik | Ben | Matt |
+| paulliwali | lyamelia | phantastik | Benwang | Matt |
 |---|---|---|---|---|
-|![paulliwali](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg)|![lyamelia](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/03c/1f7/3de2e09.jpg)|![phantastik](http://www.hpc4health.ca/hpc4health/sites/default/files/brian.jpg)|![Ben](http://placehold.it/350x150)|![Matt](http://placehold.it/350x150)|
+|![paulliwali](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg)|![lyamelia](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/03c/1f7/3de2e09.jpg)|![phantastik](http://www.hpc4health.ca/hpc4health/sites/default/files/brian.jpg)|![benwang](https://www.facebook.com/photo.php?fbid=10154020285655724&set=a.10150307409255724.554452.866490723&type=1&theater)|![Matt](http://placehold.it/350x150)|
 
 Tell us who you are, why you did you decide to join?
 
