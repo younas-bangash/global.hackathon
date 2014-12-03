@@ -17,8 +17,8 @@ Skills
  Javascript & jQuery
  
 
-   Global Hackathon
- ---------------------
+GLOBAL HACKATHON
+-----
  
  We are eagarly waiting for the hackothon day. I believe it would be really fun and enjoyable day. 
  
