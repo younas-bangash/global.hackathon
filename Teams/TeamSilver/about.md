@@ -12,3 +12,4 @@ I love to learn and build stuff
 - SQL
 - Python
 - R
+
