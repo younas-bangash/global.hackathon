@@ -13,15 +13,27 @@ About your team
 
 Why did I decide to join?
 
-I know Judges will read this page before making a final decision, so i will write my story, 
-emotional and impressive.
+I have intense inclination towards technology. My first project on technology was at the age of less than 5 years when i never knew what is technology. Mother nature inclined me towards it.
+
+Everyone knows that time will keep going ahead. What is so special about it? The speciality is that at any point of time the world is new.
+
+The super speciality of this age is availability of all the vast ocean of informations. We just need to imagine what information do we need.
+
+Hackathon has given me the opportunity to imagine what i want to do. I will do it.
+
 
 
 why I want to win.
+=======
+
+I am from a very small Village called Liluah in Westbengal, India. I want to be the Inspiration to all the people to come ahead and make the world the best place to live.
+
+Every bit of our efforts will play a role in bring about better tomorrow.
+
+My Winning will be a strong spark to itnite the sleeping motivation to bring a true world of technology into real existance.
 
 
 About my skills and what you are going to do?
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+lots of languages to mention. 
+I am planning to do something unique
