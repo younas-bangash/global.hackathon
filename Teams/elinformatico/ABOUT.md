@@ -36,10 +36,11 @@ Social
 
 * [Twitter](https://twitter.com/elinformaticomx)
 * [LinkedIn](https://www.linkedin.com/profile/view?id=100617929)
+* [Facenook](https://www.facebook.com/elinformatico.net)
 
 Web Pages
 ---------
-* [Website](http://elinformatico.net)
-* [Website](http://ranktab.com)
-* [Website](http://estamosdentro.com)
-* [Website](http://taste-mkt.com)
+* [elinformatico.net](http://elinformatico.net)
+* [ranktab.com](http://ranktab.com)
+* [estamosdentro.com](http://estamosdentro.com)
+* [taste-mkt.com](http://taste-mkt.com)
