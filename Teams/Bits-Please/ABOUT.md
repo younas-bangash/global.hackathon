@@ -17,5 +17,4 @@ Environment Canada.
 -Python
 -JavaScript
 -Dojo
--HTML, CSS
-etc.
+-HTML, CSS etc.
