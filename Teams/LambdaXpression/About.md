@@ -6,3 +6,6 @@ Still brainstorming for ideas
 
 My name is Khoa Le and I'm a university student who is learning programming
 
+## Languages
+
+- C#
