@@ -36,4 +36,9 @@ My Winning will be a strong spark to itnite the sleeping motivation to bring a t
 About my skills and what you are going to do?
 =======
 lots of languages to mention. 
+- PHP
+- Javascript
+- HTML5
+- MySQL
+- lot of frameworks
 I am planning to do something unique
