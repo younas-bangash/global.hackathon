@@ -19,5 +19,7 @@ The **Awesome** star developers:
 
 
 3. Shawon is the UX and Graphics Designer. The interface will never look as stunning and jaw-dropping without his expertise.
+4. Rommel Esparcia is a full stack developer (Node, angular, express, mongo) expert in sailsjs and hapijs with expertise in both frontend and backend.
+
 
 
