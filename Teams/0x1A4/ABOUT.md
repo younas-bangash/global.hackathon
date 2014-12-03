@@ -1,4 +1,5 @@
-# Koding Hackathon Bio + Skills
+# Hello!
+We are team 0x1A4. We are all juniors attending the Thomas Jefferson High School for Science and Technology.
 
 ## Rachel
 
