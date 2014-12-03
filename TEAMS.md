@@ -885,6 +885,32 @@ Feel free to send me an email (`public [AT] missaglialfio [DOT] pw`) if you're i
 
 ---------------------------------------
 
+Francis
+--------------
+I'm a senior Computer Science Student at Stony Brook University
+in New York. I love coding and gaming!
+
+Languages I love
+
+- C#
+- Java (Including Android Development)
+- PHP
+- MYSQL
+
+Michael
+-------------
+I'm a senior Computer Science Student at Stony Brook University
+in New York. I made snake on Android!
+
+Language I love 
+
+- C++
+- Java (Including Android Development) 
+- C# 
+
+
+---------------------------------------
+
 #Altech
 
 ###What we do
@@ -1005,6 +1031,45 @@ to use it for the Hackathon, because don't have enough XP for that.)
 
 Most of all I want my project to be really useful for people. It is a primary purpose, because if it becomes useful, it is 
 always possible to make it awesome.
+
+
+---------------------------------------
+
+Appthentic
+================
+
+
+About your team
+===========================
+
+| carlweis | 
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://lh4.googleusercontent.com/-Qije4jWjb1Y/AAAAAAAAAAI/AAAAAAAAAoQ/d8k3LZi8Xx4/photo.jpg' alt='carlweis'/> |
+
+I've been a developer since learning C at the age of 12. Completly self taught and proficient in full-stack
+web development. I've been working as a professional web &amp; software developer for the last 4 years, and now I'm
+looking to break into freelance development, before starting my own company. I believe the Hackathon will allow me to
+show my skills and prove what I can do, as I will show you a full-stack web application, front-to-back with clean,
+tight code, in under 48 hours. I've worked with may bad developers and some good ones along the way, but I feel that I
+really shine when I can take the ranes and lead the project from specification to deployment and beyond.
+
+The prizes are great, but I'm more interested in making a name for myself and teaching my 14 year old
+son about making HTML 5 games, since he wants to go to college to be a professional game developer and designer, 
+once he finishes high school. I love the challege and hope you enjoy the project that I have built.
+
+About your skills and what you are going to do?
+=======
+I'm a full-stack web developer, well versed in many languages, technologies, frameworks and api's.
+I intend to build a complete application using HTML5, CSS3, SASS, Javascript, AngularJS, MySQL, 
+and all Hackathon sponsered api's, which are applicible to the application I'm going to build.
+
+I don't want to give anything away, so you will have to wait and see....I can say it will be an HTML5 Game that 
+introduces software development. :)
+
+This is going to be AWESOME!!!
+
+
+
 
 
 ---------------------------------------
@@ -2763,22 +2828,33 @@ I took computer classes during my High School years. Through edX, I was able to 
 
 ---------------------------------------
 
-About my team
+About my team (well, me really)
 ===========================
-Team member: Naglaa Eid (aka nageid or nag ;) )
+Team member: Naglaa Eid (aka nagheid or nag for short ;) )
 
-I am a final year Software Engineering undergraduate student at the University of Ottawa in Ottawa, ON, Canada. No, I am not frozen to death up here, but getting there.
+I am a final year Software Engineering undergraduate student at the University of Ottawa in Ottawa, ON, Canada.
 
-Why I decided to join? As a busy student with finals this week, I decided to join a hackathon for the fun of it. And trust me, they are super fun. Ah, I feel the adrenaline already!!
+If I am not coding, I am either climbing walls or trying to get discovered by a bear in a forest. Or finding a roof in town that is cool enough to hang out on.
 
-Between CO-OPs and part-time jobs, I have around 2.5 years of software experience. With an engineering degree, you'd think  when do I have time? And I don't. That's why I am joining this hackathon. After 5 years of studying engineering and filling my resume with high-tech jobs. I realized I want more "hackthony" experience ... yes, I joined a local hackathon or too but they are usually on long weekend and noone shows up, so everyone goes back home after pizza. But, I did join one hackathon by Facebook and it was the BEST thing ever. After that, I started treating all my assignments as hackthons. Pfff of course, I don't leave them till the last minute just so I am forced to pull an all-nighter and get it all working from scratch fully functional with extra features just for fun. No! ... Yes, yes I do. It feels so AWESOME to create something spectacular in a heck of a sleepless night.
-
-
-About my skills and what I are going to do?
+Why I decided to join?
 =======
-I worked on back-end, front-end and everything in between.
+As a busy student with finals this week, I decided to join a hackathon for the fun of it. And trust me, they are super fun. Ah, I feel the adrenaline already!!
 
-Wait, let me puch this version before time runs out. CAN'T MISS THIS!!!! Is there a no cussing rule? I almost did. Anywho
+Between CO-OPs and part-time jobs, I have around 2.5 years of software experience. With an engineering degree, you'd think  when do I have time? And I don't. That's why I am joining this hackathon. After 5 years of studying engineering and filling my resume with high-tech jobs. I seek more "hackathony" experience to create the things *I* want ... I joined a hackathon by Facebook and it was the BEST thing ever. After that, I started treating all my assignments as hackathons. Pfff of course I don't leave them till the last minute just so I am  can pull an all-nighter and get it all working from scratch fully functional with extra features just for fun. No! ... Yes, yes I do. It feels so AWESOME to create something spectacular in a heck of a sleepless night.
+
+About my skills
+=======
+I worked on back-end, front-end and everything in between. So far, I worked on 6 different projects and each used different technologies and were in varying fields (networking, cloud/OpenStack, vision processing, web development (check out OrbitHub.com), medical applications, ...)
+
+Some of the languages I know: C, C++, HTML, CSS, Python, PHP, Perl, Java and others
+
+What I are going to do?
+=======
+The project will be related to a distributed systems algorithm and will target themes 1, 2 and 4. 
+
+If I say anything more, I will have to find you and kill you.
+
+But it will be something awesome!
 
 ---------------------------------------
 
@@ -10365,6 +10441,54 @@ Yet to decide.
 - Javascript
 - HTML5
 - CSS3
+
+
+---------------------------------------
+
+Narottam Agarwala
+================
+
+We believes in strong observation followed by our research which make the output unique.
+
+
+About your team
+===========================
+
+| Narottam Agarwala | 
+|--- |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/539983421439606784/MRSmVsZM_bigger.jpeg' alt='Narottam'/> |
+
+Why did I decide to join?
+
+I have intense inclination towards technology. My first project on technology was at the age of less than 5 years when i never knew what is technology. Mother nature inclined me towards it.
+
+Everyone knows that time will keep going ahead. What is so special about it? The speciality is that at any point of time the world is new.
+
+The super speciality of this age is availability of all the vast ocean of informations. We just need to imagine what information do we need.
+
+Hackathon has given me the opportunity to imagine what i want to do. I will do it.
+
+
+
+why I want to win.
+=======
+
+I am from a very small Village called Liluah in Westbengal, India. I want to be the Inspiration to all the people to come ahead and make the world the best place to live.
+
+Every bit of our efforts will play a role in bring about better tomorrow.
+
+My Winning will be a strong spark to itnite the sleeping motivation to bring a true world of technology into real existance.
+
+
+About my skills and what you are going to do?
+=======
+lots of languages to mention. 
+- PHP
+- Javascript
+- HTML5
+- MySQL
+- lot of frameworks
+I am planning to do something unique
 
 
 ---------------------------------------
