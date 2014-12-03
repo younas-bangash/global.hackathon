@@ -1,9 +1,9 @@
-Fringe Kase
+Team Fringe Kase
 ================
 
 I'm interested in exploring the bounds of computer science including computable theory, big data, and moral implications of computing.
 
-About your team
+About my team
 ===========================
 
 | me |
