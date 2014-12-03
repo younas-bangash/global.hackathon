@@ -13,8 +13,13 @@ Environment Canada.
 
 ##Languages
 -Java
+
 -C/ C++
+
 -Python
+
 -JavaScript
+
 -Dojo
+
 -HTML, CSS etc.
