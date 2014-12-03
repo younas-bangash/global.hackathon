@@ -20,4 +20,4 @@ Our team is called 'Vagos' inspired in a popular word in México, a few people u
 
 <h3>3. Giovanni Aguirre</h3>
 ![giovanni](http://i.imgur.com/S5Gk2sm.jpg)
-<p>He is a nodejs, angular, mongodb, spring mvc, hibernate, developer learning and player around with Xamarin and Android java development. He will be backend developer in our team</p>
+<p>He is a nodejs, angular, mongodb, spring mvc, hibernate, developer learning and playing around with Xamarin and Android java development. He will be backend developer in our team</p>
