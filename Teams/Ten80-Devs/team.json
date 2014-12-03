@@ -5,18 +5,23 @@
     {
       "name": "Maneesh Tewani",
       "twitter": "maneesht18",
-      "koding": "edytheviper",
+      "koding": "maneesht",
       "location": "St. Louis, US",
       "lead": true
     },
     {
       "name": "Brandon Brown",
+      "koding": "brandonb333",
       "location": "St. Louis, US"
     },
     {
       "name": "Andrew Pizzulo",
-      "twitter": "",
-      "koding": "",
+      "koding": "pizzyp",
+      "location": "St. Louis, US"
+    },
+    {
+      "name": "Cody Mcilvaine,
+      "koding": "codeman180",
       "location": "St. Louis, US"
     }
   ]
