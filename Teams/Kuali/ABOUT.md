@@ -21,5 +21,7 @@ Andrew is an expert Java programmer and functional test author. He will make sur
 
 Shawon is the UX and Graphic Designer. The user interfaces of our project would never look as stunning and jaw-dropping without his expertise. [Github](https://github.com/newscredshawon)
 
+![Rommel](http://www.gravatar.com/avatar/05ec6012ec6d2c8645e18f2161308f6b.png)
+
 Rommel Esparcia is a full stack developer (Node, angular, express, mongo) expert in sailsjs and hapijs with expertise in both frontend and backend.
 
