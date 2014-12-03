@@ -14,7 +14,7 @@ My Team
 I wanted to do something which can give benefit to general people or least do something interesting so people don't get bored. ;)
 
 
-Skills and intended project
+Skills
 =======
 - PHP
 - CSS3
