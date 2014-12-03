@@ -9,12 +9,12 @@ in different companies.
 
 Skills
 -----
- -HTML 
- -PHP
- -Java
- -CSS
- -Android
- -Javascript & jQuery
+ HTML
+ PHP
+ Java
+ CSS
+ Android
+ Javascript & jQuery
  
 
    Global Hackathon
