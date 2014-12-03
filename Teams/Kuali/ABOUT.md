@@ -11,15 +11,15 @@ The amazing team of developers:
 ![Rodrigo](https://avatars3.githubusercontent.com/u/1141128?v=3&s=400)
 
 
-1. Rodrigo is a Computer Science major who knows a lot about **Mathematics**, **Statistics**, and **Software Engineering**. [Guthub](https://github.com/kouryuu)
+Rodrigo is a Computer Science major who knows a lot about **Mathematics**, **Statistics**, and **Software Engineering**. [Guthub](https://github.com/kouryuu)
 
 ![Andrew](https://avatars2.githubusercontent.com/u/6120041?v=3&s=460)
 
-2. Andrew is an expert Java programmer and functional test author. He will make sure nothing gets past QA without being debugged. [Github](https://github.com/abreksa4)
+Andrew is an expert Java programmer and functional test author. He will make sure nothing gets past QA without being debugged. [Github](https://github.com/abreksa4)
 
 ![Shawon](https://koding.com/-/image/cache?endpoint=crop&grow=true&width=300&height=300&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fitsmeshawon%2Favatar-1416113965511)
 
-3. Shawon is the UX and Graphic Designer. The user interfaces of our project would never look as stunning and jaw-dropping without his expertise. [Github](https://github.com/newscredshawon)
+Shawon is the UX and Graphic Designer. The user interfaces of our project would never look as stunning and jaw-dropping without his expertise. [Github](https://github.com/newscredshawon)
 
-4. Rommel Esparcia is a full stack developer (Node, angular, express, mongo) expert in sailsjs and hapijs with expertise in both frontend and backend.
+Rommel Esparcia is a full stack developer (Node, angular, express, mongo) expert in sailsjs and hapijs with expertise in both frontend and backend.
 
