@@ -11,13 +11,13 @@ Our team is called 'Vagos' inspired in a popular word in México, a few people u
 <h2>About the team members</h2>
 
 <h4>1. Victor Santillan</h4>
-[VSantillan](http://i.imgur.com/6681rfT.jpg)
+![VSantillan](http://i.imgur.com/6681rfT.jpg)
 <p>He is a JavaEE, Spring MVC and Javascript developer but use his free time to develop with nodejs and html5. He will be backend developer in our team.</p>
 
 <h4>2. Jorge Muñoz</h4>
-[jmunoz](http://i.imgur.com/dafFzCx.jpg)
+![jmunoz](http://i.imgur.com/dafFzCx.jpg)
 <p>He is a frontend engineer and UX Designer, he are learning and playing around with backend technologies like nodejs, spring mvc, hibernate, PostgreSQL and Oracle. He will be frontend developer in our team</p>
 
 <h3>3. Giovanni Aguirre</h3>
-[giovanni](http://i.imgur.com/S5Gk2sm.jpg)
+![giovanni](http://i.imgur.com/S5Gk2sm.jpg)
 <p>He is a nodejs, angular, mongodb, spring mvc, hibernate, developer learning and player around with Xamarin and Android java development. He will be backend developer in our team</p>
