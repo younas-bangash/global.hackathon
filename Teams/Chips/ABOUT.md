@@ -14,4 +14,4 @@ Skills
 Project
 ------
 
-Ops. I still have no idea. Just want to build something simple and usefull as paper.
+Ops. I still have no idea. Just want to build something simple and useful as a paper.
